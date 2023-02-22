@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/codemzy/codebadges@1.0.4/dist/codebadges.min.css">
+<script src="https://cdn.jsdelivr.net/gh/codemzy/codebadges@1.0.4/dist/codebadges.min.js"></script>
+<div class="code-badge freecodecamp"></div>
+codeBadges("codemzy").codewars("MichaelPerdue");
 <!--
 **Michael-Perdue/Michael-Perdue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
