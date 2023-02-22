@@ -1,6 +1,6 @@
-### Hi there 👋
-[codewars.com](https://www.codewars.com/).
+# Welcome to my Github
 
+### Here is my Codewars account:
 [![Profile badge](https://www.codewars.com/users/MichaelPerdue/badges/large)](https://www.codewars.com/users/MichaelPerdue)
 <!--
 **Michael-Perdue/Michael-Perdue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
